@@ -1,0 +1,17 @@
+{
+  "name": "ejercicio1",
+  "version": "1.0.0",
+  "description": "Primer ejercicio de javascript en OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "text": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "primer",
+    "ejercicio"
+  ],
+  "author": "GianMRV",
+  "license": "ISC"
+}
